@@ -1,7 +1,7 @@
 import sqlCommands
 
 
-sqlCommands.insertLog("fake2mail@fake.com","badPass")
+sqlCommands.auth("fwwake2mail@fake.com","badPass")
 
 
 

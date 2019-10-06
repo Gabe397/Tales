@@ -1,0 +1,11 @@
+fwwake2mail@fake.com Failed to Authenticate 
+test Failed to Authenticate 
+fakemail@fake.com Successfuly Connected 
+fakemail@fake.com Successfuly Connected 
+fakemail@fake.com Successfuly Connected 
+fakemail@fake.com Failed to Authenticate 
+fakemail@fake.com Failed to Authenticate 
+fakemail@fake.com Failed to Authenticate 
+fakemail@fake.com Failed to Authenticate 
+fakemail@fake.com Failed to Authenticate 
+fakemail@fake.com Successfuly Connected 
